@@ -8,7 +8,7 @@ WebExtension to make any web page a canvas to select, copy and paste anywhere el
 
 Works in any tabs, you can copy from a tab and paste in another tab, or in an other software, anywhere.
 
-- **Ctrl/Cmd+D** Switch modes (Hidden, Clip and Paste)
+- **Ctrl/Cmd+D** Switch modes (Sleep, Clip and Paste)
 - **Ctrl/Cmd+V** (Paste mode) Paste any image into the screen and use the mouse to drag it over.
 - **Ctrl/Cmd+C** (Clip mode) Copy any clip you did using the mouse in clip mode.
 - **Mouse-Left** (Clip mode) Draw an area you want to select for copy.
