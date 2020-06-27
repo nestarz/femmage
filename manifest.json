@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Hello World",
-  "version": "1.0",
-  "description": "Adds hello world paragraph to all webpages",
+  "name": "Collage",
+  "version": "0.1",
+  "description": "Make any web page a canvas to select, copy and paste anywhere else.",
   "content_scripts": [
     {
       "matches": [
