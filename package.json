@@ -1,0 +1,10 @@
+{
+  "name": "collage",
+  "version": "0.1.0",
+  "repository": "https://github.com/nestarz/collage",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.117",
+    "web-ext": "^4.3.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "Hello World",
+  "version": "1.0",
+  "description": "Adds hello world paragraph to all webpages",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "src/content.js",
+        "src/content/css.js",
+        "src/content/clip.js",
+        "src/content/paste.js"
+      ]
+    }
+  ],
+  "background": {
+    "scripts": [
+      "src/background.js"
+    ]
+  },
+  "permissions": [
+    "activeTab",
+    "<all_urls>",
+    "clipboardWrite"
+  ]
+}
