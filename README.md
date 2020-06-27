@@ -16,3 +16,12 @@ Works in any tabs, you can copy from a tab and paste in another tab, or in an ot
 - **Firefox Addon Browser** [https://addons.mozilla.org/en-US/firefox/addon/femmage/](https://addons.mozilla.org/en-US/firefox/addon/femmage/)
 - **Chrome Web Store** Soon
 - **Safari Extensions** Soon
+
+## Manual Installation
+
+```
+yarn install
+web-ext run
+```
+
+For more documentation on manual install, read https://extensionworkshop.com/documentation/develop/web-ext-command-reference/
