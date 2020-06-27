@@ -18,5 +18,5 @@ Works in any tabs, you can copy from a tab and paste in another tab, or in an ot
 
 ### Name Inspiration
 
-A femmage, in the terminology of Miriam Schapiro and Melissa Meyer, is an object, a plastic creation, starting from conceptual approaches and techniques traditionally used by women ("Miriam Schapiro invented the word" femmage "for collages which included traditional examples of sewing and quilting for women ”). Not to be confused with the word "femmage" which was used by artist Louise Lidströmer in the sense of "homage paid by a woman".
-Source: https://fr.wikipedia.org/wiki/Femmage
+> A femmage, in the terminology of Miriam Schapiro and Melissa Meyer, is an object, a plastic creation, starting from conceptual approaches and techniques traditionally used by women ("Miriam Schapiro invented the word" femmage "for collages which included traditional examples of sewing and quilting for women ”). Not to be confused with the word "femmage" which was used by artist Louise Lidströmer in the sense of "homage paid by a woman".
+> (Source) https://fr.wikipedia.org/wiki/Femmage
