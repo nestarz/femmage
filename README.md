@@ -1,4 +1,4 @@
-![Femmage](https://github.com/nestarz/femmage/blob/master/femmage.png?raw=true)
+![Femmage](https://github.com/nestarz/femmage/blob/master/femmage.jpg?raw=true)
 
 # Femmage
 
