@@ -1,7 +1,7 @@
 # Femmage
 
 > A femmage, in the terminology of Miriam Schapiro and Melissa Meyer, is an object, a plastic creation, starting from conceptual approaches and techniques traditionally used by women ("Miriam Schapiro invented the word" femmage "for collages which included traditional examples of sewing and quilting for women ”). Not to be confused with the word "femmage" which was used by artist Louise Lidströmer in the sense of "homage paid by a woman".\
-> — Wikipedia > Femmage
+> Wikipedia/Femmage
 
 WebExtension to make any web page a canvas to select, copy and paste anywhere else
 
