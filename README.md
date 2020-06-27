@@ -13,7 +13,7 @@ Works in any tabs, you can copy from a tab and paste in another tab, or in an ot
 - **Mouse-Left** (Paste mode) Drag any image you paste from your clipboard.
 
 ## Download
-- **Firefox Addon Browser** [https://addons.mozilla.org/en-US/firefox/addon/femmage/](https://addons.mozilla.org/en-US/firefox/addon/femmage/)
+- **Firefox Addon Browser** [https://addons.mozilla.org/en-US/firefox/addon/femmage/](https://addons.mozilla.org/en-US/firefox/addon/femmage/)  (Status: Awaiting Review)
 - **Chrome Web Store** Soon
 - **Safari Extensions** Soon
 
