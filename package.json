@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/chrome": "^0.0.117",
+    "@types/firefox-webext-browser": "^78.0.0",
     "web-ext": "^4.3.0"
   }
 }
