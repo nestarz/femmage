@@ -3,6 +3,11 @@
   "name": "Collage",
   "version": "0.1",
   "description": "Make any web page a canvas to select, copy and paste anywhere else.",
+  "icons": {
+    "32": "assets/icons/32.png",
+    "64": "assets/icons/64.png",
+    "128": "assets/icons/128.png"
+  },
   "content_scripts": [
     {
       "matches": [
