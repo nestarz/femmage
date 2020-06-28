@@ -4,7 +4,7 @@ globalThis.paste = {
   name: "paste",
   setup: () => {
     persist.root =
-      persist.root ??
+      persist.root ||
       Object.assign(document.createElement("div"), {
         className: "webextension-collage webextension-collage-paste",
       });

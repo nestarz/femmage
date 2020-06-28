@@ -52,9 +52,11 @@ globalThis.clip = {
         keydown: (event) => {
           if (event.code === "Tab") event.preventDefault();
           else if ((event.ctrlKey || event.metaKey) && event.code === "KeyC") {
+            const current = state.focus || state.current;
+            if (!current) return;
             root.classList.add("webextension-collage-hide");
             browser.runtime.sendMessage(
-              (state.focus || state.current)?.getAttributeNS(null, "d"),
+              current.getAttributeNS(null, "d"),
               (response) => {
                 root.classList.remove("webextension-collage-hide");
                 if (!response) console.error(browser.runtime.lastError.message);
@@ -76,7 +78,7 @@ globalThis.clip = {
           if (event.code === "Tab") {
             state.focus.nextElementSibling
               ? state.focus.nextElementSibling.focus()
-              : svg.querySelector("path")?.focus();
+              : svg.querySelector("path") && svg.querySelector("path").focus();
             event.preventDefault();
           }
         },

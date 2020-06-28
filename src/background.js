@@ -1,5 +1,5 @@
 globalThis.isChrome = typeof globalThis.browser === undefined;
-globalThis.browser = globalThis.browser ?? chrome;
+globalThis.browser = globalThis.browser || globalThis.chrome;
 
 const bbox = (points) => {
   const X = points.filter((_, i) => (i + 1) % 2);
